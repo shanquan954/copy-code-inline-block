@@ -1,11 +1,8 @@
 {
 	"id": "copy-code-inline-blocks",
 	"name": "copy code inline blocks",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
 	"description": "Click to copy code inline blocks.",
 	"author": "shixi",
 	"authorUrl": "https://github.com/shanquan954",
-	"fundingUrl": "https://github.com/shanquan954/copy-code-inline-block",
-	"isDesktopOnly": false
+	"repo": "https://github.com/shanquan954/copy-code-inline-block"
 }
